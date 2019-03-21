@@ -33,9 +33,6 @@ client.on('message', msg => {
                               "footer": {
                                 "text": "F1-Bot by Ivo van der Bruggen"
                               },
-                              /*"author": {
-                                "name": "F1-Bot"
-                              },*/
                               "fields": [
                                 {
                                   "name": "Next race",
