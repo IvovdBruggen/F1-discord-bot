@@ -11,3 +11,7 @@ Run the following commands and the script should run without problems.
 `npm install jquery`
 
 `npm install discord.js`
+
+After that, take the token_example.json. Rename it to token.json and place your token in the quotes that say "YOUR ID HERE".
+
+If you now run the script by typing "node script.js" in your terminal the bot should come online and function.
